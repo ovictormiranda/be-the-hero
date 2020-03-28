@@ -1,4 +1,8 @@
 # be-the-hero
+Learnig new technologies using a real project.
+The goal gof this aplication is find a donnor for a case in some NGO's.
+Using email and/or whatsapp to send a message.
+
 On this Project I built the backend, frontend and mobile app.
 
 
